@@ -27,6 +27,8 @@ I am currently in my last year of my university career. As for my skills, I cons
 
 <img align="left" alt="Python" width="26px" src="icons/python-original.svg"/>
 
+<img align="left" alt="Java" width="26px" src="icons/java-original-wordmark.svg/>
+
 <img align="left" alt="Django" width="26px" src="icons/django-plain.svg"/>
 
 <img align="left" alt="HTML" width="26px" src="icons/html5-original-wordmark.svg"/>
