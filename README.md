@@ -4,11 +4,12 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gsergey99.gsergey99)
 
 
-- 🔭 I’m currently working on Liferay as Associate Software Enginieering 
-- 💬 Ask me about in sjc1b@hotmail.es
+- 🔭 I’m currently working on @liferay as Associate Software Enginieer
+- 🌱 I’m currently learning how to be a better software enginieer 
+- 💬 Ask me about in sergio.jdelcoso@liferay.com
 - 📫 How to reach me: You can visit my personal [website](https://sergiojimcos.github.io/MW_Page/ "Sergio Jiménez del Coso")
 
-I am currently in my last year of my university career. As for my skills, I consider myself a hard worker, responsible, with a great attitude and eager to learn and increase my knowledge. 
+As for my skills, I consider myself a hard worker, responsible, with a great attitude and eager to learn and increase my knowledge. 
 
 ### 🚀 Some tools and languages I use
 
