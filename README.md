@@ -41,7 +41,7 @@ As for my skills, I consider myself a hard worker, responsible, with a great att
 
 <br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiojimcos&langs_count=10&layout=compact&theme=dracula)](https://github.com/gsergey99/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiojimcos&langs_count=10&layout=compact&theme=dracula)](https://github.com/sergiojimcos/github-readme-stats)
 
 
 ### 📊 Github stats
