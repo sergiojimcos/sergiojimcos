@@ -4,12 +4,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=gsergey99.gsergey99)
 
 
-- 🔭 I’m currently working on my final project degree (FPD) 
-- 🌱 I’m currently learning web desing with IoT devices
+- 🔭 I’m currently working on Liferay as Associate Software Enginieering 
 - 💬 Ask me about in sjc1b@hotmail.es
-- 📫 How to reach me: You can visit my personal [website](https://gsergey99.github.io/MW_Page/ "Sergio Jiménez del Coso")
-
-My name is Sergio Jiménez del Coso, I am 22 years old and I live in Valdepeñas (Ciudad Real). I am a student of the University of Castilla-La Mancha of the Escuela Superior de Informática de Ciudad Real in the intensification of Computer Engineering. I also just started contributing to ARCO Research Group as a collaborative intern.
+- 📫 How to reach me: You can visit my personal [website](https://sergiojimcos.github.io/MW_Page/ "Sergio Jiménez del Coso")
 
 I am currently in my last year of my university career. As for my skills, I consider myself a hard worker, responsible, with a great attitude and eager to learn and increase my knowledge. 
 
