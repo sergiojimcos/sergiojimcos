@@ -43,11 +43,11 @@ I am currently in my last year of my university career. As for my skills, I cons
 
 <br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsergey99&langs_count=10&layout=compact&theme=dracula)](https://github.com/gsergey99/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiojimcos&langs_count=10&layout=compact&theme=dracula)](https://github.com/gsergey99/github-readme-stats)
 
 
 ### 📊 Github stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsergey99&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergiojimcos&show_icons=true&theme=dracula)
 
 
 ### Atributions
