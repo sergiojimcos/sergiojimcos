@@ -1,7 +1,7 @@
 ### Hi there, I am Sergio 👋
 
-![GitHub followers](https://img.shields.io/github/followers/gsergey99?label=Follow&style=social) 
-![](https://visitor-badge.glitch.me/badge?page_id=gsergey99.gsergey99)
+![GitHub followers](https://img.shields.io/github/followers/sergiojimcos?label=Follow&style=social) 
+![](https://visitor-badge.glitch.me/badge?page_id=sergiojimcos.sergiojimcos)
 
 
 - 🔭 I’m currently working on @liferay as Associate Software Enginieer
