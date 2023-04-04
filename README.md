@@ -7,7 +7,6 @@
 - 🔭 I’m currently working on @liferay as Associate Software Engineer
 - 🌱 I’m currently learning how to be a better software enginieer 
 - 💬 Ask me about in sergio.jdelcoso@liferay.com
-- 📫 How to reach me: You can visit my personal [website](https://sergiojimcos.github.io/MW_Page/ "Sergio Jiménez del Coso")
 
 As for my skills, I consider myself a hard worker, responsible, with a great attitude and eager to learn and increase my knowledge. 
 
