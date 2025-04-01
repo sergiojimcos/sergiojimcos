@@ -4,7 +4,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=sergiojimcos.sergiojimcos)
 
 
-- 🔭 I’m currently working on @liferay as Associate Software Engineer
+- 🔭 I’m currently working on Digiswit as Software Engineer
 - 🌱 I’m currently learning how to be a better software enginieer 
 - 💬 Ask me about in sjc1b@hotmail.es
 
